@@ -1,0 +1,3 @@
+io.agroal:agroal-pool:1.*        ---> io.github.crac.io.agroal:agroal-pool:1.18.CRAC.0
+io.vertx:vertx-grpc:*            ---> io.github.crac.io.vertx:vertx-grpc:4.3.8.CRAC.0
+org.apache.kafka:kafka-clients:* ---> io.github.crac.org.apache.kafka:kafka-clients:3.3.1.CRAC.0
