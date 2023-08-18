@@ -4,7 +4,7 @@
 
     <groupId>io.github.crac</groupId>
     <artifactId>crac-enforcer-rule</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <name>CRaC Maven Enforcer Rule</name>
     <description>Identifies dependencies known to have issues with OpenJDK CRaC</description>
     <url>https://github.com/CRaC/crac-enforcer-rule</url>
@@ -12,7 +12,7 @@
         <connection>scm:git:git://github.com/CRaC/crac-enforcer-rule.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/CRaC/crac-enforcer-rule.git</developerConnection>
         <url>https://github.com/CRaC/crac-enforcer-rule</url>
-        <tag>1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
     <licenses>
         <license>
